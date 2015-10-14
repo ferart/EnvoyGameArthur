@@ -10,6 +10,10 @@ Bullet points:
     Use of popular frameworks.
     maintainable project
     
+    
+Nnswers are in the Questions.pdf file
+Apk also include: envoy_game_arthur.apk
+    
 ![alt tag](https://github.com/ferart/EnvoyGameArthur/blob/master/main.png)
 ![alt tag](https://github.com/ferart/EnvoyGameArthur/blob/master/adding.png)
 ![alt tag](https://github.com/ferart/EnvoyGameArthur/blob/master/rating.png)
