@@ -11,7 +11,7 @@ Bullet points:
     maintainable project
     
     
-Nnswers are in the Questions.pdf file
+Answers are in the Questions.pdf file
 Apk also include: envoy_game_arthur.apk
     
 ![alt tag](https://github.com/ferart/EnvoyGameArthur/blob/master/main.png)
