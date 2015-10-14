@@ -10,8 +10,6 @@ Bullet points:
     Use of popular frameworks.
     maintainable project
     
-![alt tag](https://github.com/ferart/VendingMachine/blob/master/images/ArthursVendingMachine.jpg)
-![alt tag](https://github.com/ferart/VendingMachine/blob/master/images/vending1.png)
-![alt tag](https://github.com/ferart/VendingMachine/blob/master/images/vending2.png)
-![alt tag](https://github.com/ferart/VendingMachine/blob/master/images/vending3.png)
-![alt tag](https://github.com/ferart/VendingMachine/blob/master/images/vending4.png)
+![alt tag](https://github.com/ferart/EnvoyGameArthur/blob/master/main.png)
+![alt tag](https://github.com/ferart/EnvoyGameArthur/blob/master/adding.png)
+![alt tag](https://github.com/ferart/EnvoyGameArthur/blob/master/rating.png)
